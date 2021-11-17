@@ -1,0 +1,38 @@
+{
+	"name": "tyler-s-programming-mode-theme-for-vscode",
+	"publisher": "TylerPeppy",
+	"displayName": "Tyler's Programming Mode Theme For VSCode",
+	"description": "A simple and elegant yet modern color theme for VSCode with cooler tones for ease on the eyes and maximum concentration.",
+	"version": "1.0.1",
+	"engines": {
+		"vscode": "^1.62.0"
+	},
+	"repository": {
+		"url": "https://github.com/T-622/Mellow-Theme",
+		"type": "git"
+	},
+	"author": {
+		"name": "TylerPeppy",
+		"email": "tyler.peppy@gmail.com",
+		"url": "https://github.com/T-622/"
+	},
+	"icon": "Microsoft.VisualStudio.Services.Icons.png",
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Tyler's Programming Mode Theme For VSCode",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Tyler's Programming Mode Theme For VSCode-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "bf360abe-04a6-4c5b-924d-16c4f89e885d",
+		"publisherId": "8883b744-8729-474f-b32b-bfc6dc5af2b2",
+		"publisherDisplayName": "Tyler Peppy",
+		"installedTimestamp": 1637174699699
+	}
+}
